@@ -1,0 +1,8 @@
+(1) demofile3.txt   TAGS: 
+(2) EXAMPLE JPG.jpg   TAGS: 
+(3) EXAMPLE PNG.png   TAGS: 
+(4) EXAMPLE1.txt   TAGS: 
+(5) EXAMPLE2.txt   TAGS: 
+(6) EXAMPLE3.txt   TAGS: 
+(7) INDEXER.py   TAGS: 
+(8) TAGS.txt   TAGS: 
